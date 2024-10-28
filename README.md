@@ -24,7 +24,7 @@ The SOC Automation Project aims to create a fully integrated Security Operations
 
 ## Project Workflow
 1. **Setup Environment**: Configure VMware to host a Windows 10 virtual machine.
-2. **Deploy Wazuh**: Install and configure Wazuh on DigitalOcean to monitor security events.
+2. **Deploy Wazuh**: Install and configure Wazuh to monitor security events.
 3. **Install TheHive**: Set up TheHive for case management and integrate it with Wazuh.
 4. **Configure Alerts**: Create custom alert rules in Wazuh for specific security events.
 5. **Integrate Shuffle**: Use Shuffle for automating the incident response process, enriching alerts with additional data from sources like VirusTotal.
